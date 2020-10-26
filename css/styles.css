@@ -7607,7 +7607,7 @@ form .row:first-child .floating-label-form-group {
 
   @media screen and (max-width: 467px){
     .tasks-img {
-      height:285px;
+      height:300px;
       width: 350px;
       filter: drop-shadow(5px 5px 5px #D5D5D5);
       margin-bottom: 0px;
@@ -7646,8 +7646,8 @@ form .row:first-child .floating-label-form-group {
       width: 200px;
     }
     .img {
-        height:315px;
-        width: 175px;
+        height:350px;
+        width: 185px;
         filter: drop-shadow(5px 5px 5px #D5D5D5);
     }
   }
