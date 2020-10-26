@@ -7522,11 +7522,9 @@ form .row:first-child .floating-label-form-group {
   }
 
   .iphone-img {
-      height:550px;
+      height:575px;
       width: 300px;
       filter: drop-shadow(5px 5px 5px #D5D5D5);
-      margin-top: 15%;
-      /* filter: drop-shadow(5px 5px 5px #1f1f1f); */
   }
 
   .tasks-img {
@@ -7540,7 +7538,7 @@ form .row:first-child .floating-label-form-group {
     position: absolute;
     /* top: 48%; */
     top: 275px;
-    margin-left: 20px;
+    margin-left: 25px;
     width: 200px;
   }
 
@@ -7580,12 +7578,6 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:275px;
       width: 400px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
-    }
-
-    .img {
-      height:350px;
-      width: 200px;
       filter: drop-shadow(5px 5px 5px #D5D5D5);
     }
 
@@ -7637,5 +7629,10 @@ form .row:first-child .floating-label-form-group {
       top: 275px;
       margin-left: 18px;
       width: 200px;
+    }
+    .iphone-img {
+        height:400px;
+        width: 200px;
+        filter: drop-shadow(5px 5px 5px #D5D5D5);
     }
   }
