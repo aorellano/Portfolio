@@ -7537,7 +7537,7 @@ form .row:first-child .floating-label-form-group {
   .gif {
     position: absolute;
     /* top: 48%; */
-    top: 275px;
+    top: 250px;
     margin-left: 25px;
     width: 200px;
   }
@@ -7552,8 +7552,8 @@ form .row:first-child .floating-label-form-group {
     .gif {
       position: absolute;
       /* top: 48%; */
-      top: 275px;
-      margin-left: 18px;
+      top: 250px;
+      margin-left: 16px;
       width: 200px;
     }
   }
@@ -7568,8 +7568,8 @@ form .row:first-child .floating-label-form-group {
     .gif {
       position: absolute;
       /* top: 48%; */
-      top: 275px;
-      margin-left: 18px;
+      top: 250px;
+      margin-left: 16px;
       width: 200px;
     }
   }
@@ -7584,15 +7584,15 @@ form .row:first-child .floating-label-form-group {
     .gif {
       position: absolute;
       /* top: 48%; */
-      top: 275px;
-      margin-left: 18px;
+      top: 250px;
+      margin-left: 16px;
       width: 200px;
     }
   }
 
   @media screen and (max-width: 467px){
     .tasks-img {
-      height:275px;
+      height:285px;
       width: 350px;
       filter: drop-shadow(5px 5px 5px #D5D5D5);
       margin-bottom: 0px;
@@ -7626,8 +7626,8 @@ form .row:first-child .floating-label-form-group {
     .gif {
       position: absolute;
       /* top: 48%; */
-      top: 275px;
-      margin-left: 18px;
+      top: 250px;
+      margin-left: 16px;
       width: 200px;
     }
     .img {
