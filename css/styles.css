@@ -7541,7 +7541,7 @@ form .row:first-child .floating-label-form-group {
     /* top: 48%; */
     top: 275px;
     margin-left: 25px;
-    width: 210px;
+    width: 200px;
   }
 
   @media screen and (max-width: 767px){
@@ -7556,7 +7556,7 @@ form .row:first-child .floating-label-form-group {
       /* top: 48%; */
       top: 275px;
       margin-left: 18px;
-      width: 210px;
+      width: 200px;
     }
   }
 
@@ -7572,7 +7572,7 @@ form .row:first-child .floating-label-form-group {
       /* top: 48%; */
       top: 275px;
       margin-left: 18px;
-      width: 210px;
+      width: 200px;
     }
   }
 
@@ -7594,7 +7594,7 @@ form .row:first-child .floating-label-form-group {
       /* top: 48%; */
       top: 275px;
       margin-left: 18px;
-      width: 210px;
+      width: 200px;
     }
   }
 
@@ -7636,6 +7636,6 @@ form .row:first-child .floating-label-form-group {
       /* top: 48%; */
       top: 275px;
       margin-left: 18px;
-      width: 210px;
+      width: 200px;
     }
   }
