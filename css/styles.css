@@ -7539,9 +7539,9 @@ form .row:first-child .floating-label-form-group {
     /* top: 48%; */
     top: 250px;
     margin-left: 25px;
-    width: 200px;
+    width: 195px;
   }
-  @media screen and (max-width: 1024px){
+  @media screen and (max-width: 1366px){
     .tasks-img {
       height:450px;
       width: 600px;
