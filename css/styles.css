@@ -7630,9 +7630,9 @@ form .row:first-child .floating-label-form-group {
       margin-left: 18px;
       width: 200px;
     }
-    .iphone-img {
-        height:400px;
-        width: 200px;
+    .img {
+        height:315px;
+        width: 175px;
         filter: drop-shadow(5px 5px 5px #D5D5D5);
     }
   }
