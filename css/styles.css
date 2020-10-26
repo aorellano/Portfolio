@@ -7541,6 +7541,21 @@ form .row:first-child .floating-label-form-group {
     margin-left: 25px;
     width: 200px;
   }
+  @media screen and (max-width: 1024px){
+    .tasks-img {
+      height:450px;
+      width: 600px;
+      filter: drop-shadow(5px 5px 5px #D5D5D5);
+    }
+
+    .gif {
+      position: absolute;
+      /* top: 48%; */
+      top: 250px;
+      margin-left: 14px;
+      width: 200px;
+    }
+  }
 
   @media screen and (max-width: 767px){
     .tasks-img {
