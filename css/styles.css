@@ -7550,6 +7550,14 @@ form .row:first-child .floating-label-form-group {
       width: 600px;
       filter: drop-shadow(5px 5px 5px #D5D5D5);
     }
+
+    .gif {
+      position: absolute;
+      /* top: 48%; */
+      top: 275px;
+      margin-left: 18px;
+      width: 210px;
+    }
   }
 
   @media screen and (max-width: 667px){
