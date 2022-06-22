@@ -7556,7 +7556,7 @@ form .row:first-child .floating-label-form-group {
   .tasks-img {
     height:550px;
     width: 750px;
-    filter: drop-shadow(5px 5px 5px #D5D5D5);
+  
     margin-bottom: 100px;
   }
 
@@ -7571,7 +7571,7 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:450px;
       width: 600px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
+    
     }
 
     .gif {
@@ -7587,7 +7587,7 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:450px;
       width: 600px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
+
     }
 
     .gif {
@@ -7603,7 +7603,7 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:350px;
       width: 500px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
+
     }
 
     .gif {
@@ -7619,7 +7619,7 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:275px;
       width: 400px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
+ 
     }
 
     .gif {
@@ -7635,7 +7635,7 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:300px;
       width: 350px;
-      filter: drop-shadow(5px 5px 5px #D5D5D5);
+ 
       margin-bottom: 0px;
     }
 
@@ -7672,8 +7672,8 @@ form .row:first-child .floating-label-form-group {
       width: 200px;
     }
     .img {
-        height:350px;
-        width: 185px;
-        filter: drop-shadow(5px 5px 5px #D5D5D5);
+      height:300px;
+      width: 350px;
+       
     }
   }
