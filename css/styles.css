@@ -7526,7 +7526,6 @@ form .row:first-child .floating-label-form-group {
     font-size: 26px;
     font-weight: 10;
 
-    color: white;
   }
 
   .description {
@@ -7665,7 +7664,6 @@ form .row:first-child .floating-label-form-group {
       font-size: 18px;
       font-weight: 10;
 
-      color: black;
     }
 
     .description {
@@ -7688,7 +7686,7 @@ form .row:first-child .floating-label-form-group {
        
     }
     .websiteImg {
-      height:250px;
-      width: 350px;
+      height:225px;
+      width: 375px;
     }
   }
