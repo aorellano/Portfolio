@@ -7619,8 +7619,14 @@ form .row:first-child .floating-label-form-group {
     .tasks-img {
       height:275px;
       width: 400px;
- 
     }
+
+      .img {
+        height:275px;
+        width: 400px;
+   
+      }
+    
 
     .gif {
       position: absolute;
@@ -7628,6 +7634,11 @@ form .row:first-child .floating-label-form-group {
       top: 250px;
       margin-left: 16px;
       width: 200px;
+    }
+
+    .websiteImg {
+      height:275px;
+      width: 450px;
     }
   }
 
@@ -7675,5 +7686,9 @@ form .row:first-child .floating-label-form-group {
       height:300px;
       width: 350px;
        
+    }
+    .websiteImg {
+      height:250px;
+      width: 350px;
     }
   }
