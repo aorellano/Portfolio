@@ -103,6 +103,12 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
 
+  .details-title {
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+  }
+
   .btn:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
  }
@@ -112,6 +118,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
       /*filter: drop-shadow(5px 5px 5px #D5D5D5);
       /* margin-top: 15%; */
       /* filter: drop-shadow(5px 5px 5px #1f1f1f); */
+  }
+
+  .img-details {
+    height:400px;
+    width: 200px;
   }
 
   .media {
@@ -277,7 +288,9 @@ label {
   margin-bottom: 0.5rem; }
 
 button {
-  border-radius: 0; }
+  border-radius: 0; 
+  text-align: center; 
+}
 
 button:focus {
   outline: 1px dotted;
@@ -1856,6 +1869,7 @@ textarea.form-control {
   font-size: 1rem;
   line-height: 1.5;
   border-radius: 0.5rem;
+  text-align: center; 
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
 
 @media (prefers-reduced-motion: reduce) {
@@ -2021,7 +2035,9 @@ fieldset:disabled a.btn {
 .btn-light {
   color: #212529;
   background-color: #f8f9fa;
-  border-color: #f8f9fa; }
+  border-color: #f8f9fa; 
+  text-align: center; 
+}
   .btn-light:hover {
     color: #212529;
     background-color: #e2e6ea;
