@@ -125,6 +125,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     width: 225px;
   }
 
+  .img-details2 {
+    height: 500px;
+    width: 235px;
+  }
+
   .media {
     border-radius: 25px;
   }
@@ -139,9 +144,12 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
       height:34--px;
       width: 650px;
       border-radius: 5px;
-     
-     
   }
+  .websiteImg2 {
+    height:20--px;
+    width: 640px;
+    border-radius: 5px;
+}
 
   .gif {
     position: absolute;
