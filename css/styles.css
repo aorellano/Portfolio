@@ -7639,6 +7639,8 @@ form .row:first-child .floating-label-form-group {
     }
   }
 
+  
+
   @media screen and (max-width: 567px){
     .tasks-img {
       height:275px;
@@ -7663,6 +7665,11 @@ form .row:first-child .floating-label-form-group {
     .websiteImg {
       height:275px;
       width: 450px;
+    }
+
+    .websiteImg2 {
+      height:0px;
+      width: 0px;
     }
   }
 
@@ -7713,5 +7720,19 @@ form .row:first-child .floating-label-form-group {
     .websiteImg {
       height:215px;
       width: 375px;
+    }
+
+    .websiteImg2 {
+      height:0px;
+      width: 0px;
+    }
+
+    
+  }
+
+  @media screen and (max-width: 400px){
+    .websiteImg2 {
+      height:0px;
+      width: 0px;
     }
   }
