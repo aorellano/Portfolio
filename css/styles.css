@@ -130,6 +130,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     width: 235px;
   }
 
+  .img-details3 {
+    height: 300px;
+    width: 150px;
+  }
+
   .media {
     border-radius: 25px;
   }
@@ -142,13 +147,18 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
   .websiteImg {
       height:34--px;
-      width: 650px;
+      width: 850px;
       border-radius: 5px;
   }
   .websiteImg2 {
     height: 420px;
     width: 640px;
     border-radius: 5px;
+}
+.websiteImg3 {
+  height: 550px;
+  width: 425px;
+  border-radius: 5px;
 }
 
   .gif {
@@ -7719,7 +7729,7 @@ form .row:first-child .floating-label-form-group {
     }
     .websiteImg {
       height:215px;
-      width: 375px;
+      width: 75px;
     }
 
     .websiteImg2 {
