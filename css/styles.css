@@ -156,7 +156,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     border-radius: 5px;
 }
 .websiteImg3 {
-  height: 550px;
+  height: 525px;
+  width: 950px;
+  border-radius: 5px;
+}
+
+.websiteImg4 {
+  height: 525px;
   width: 500px;
   border-radius: 5px;
 }
@@ -7682,6 +7688,16 @@ form .row:first-child .floating-label-form-group {
       width: 225px;
     }
 
+    .websiteImg3 {
+      height:350px;
+      width: 450px;
+    }
+
+    .websiteImg4 {
+      height:350px;
+      width: 450px;
+    }
+
     
   }
 
@@ -7740,10 +7756,18 @@ form .row:first-child .floating-label-form-group {
     }
 
     .websiteImg3 {
+      height:225px;
+      width: 325px;
+      border-radius: 5px;
+    }
+
+    .websiteImg4 {
       height:325px;
       width: 325px;
       border-radius: 5px;
     }
+
+    
   }
 
   @media screen and (max-width: 400px){
@@ -7753,6 +7777,12 @@ form .row:first-child .floating-label-form-group {
     }
 
     .websiteImg3 {
+      height: 225px;
+      width: 325px;
+      border-radius: 5px;
+    }
+
+    .websiteImg4 {
       height: 325px;
       width: 325px;
       border-radius: 5px;
