@@ -7678,8 +7678,8 @@ form .row:first-child .floating-label-form-group {
     }
 
     .websiteImg2 {
-      height:0px;
-      width: 0px;
+      height:300px;
+      width: 225px;
     }
 
     
@@ -7741,7 +7741,7 @@ form .row:first-child .floating-label-form-group {
 
     .websiteImg3 {
       height:350px;
-      width: 180px;
+      width: 225px;
       border-radius: 5px;
     }
   }
@@ -7754,7 +7754,7 @@ form .row:first-child .floating-label-form-group {
 
     .websiteImg3 {
       height: 350px;
-      width: 180px;
+      width: 225px;
       border-radius: 5px;
     }
   }
