@@ -157,7 +157,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 .websiteImg3 {
   height: 550px;
-  width: 450px;
+  width: 500px;
   border-radius: 5px;
 }
 
@@ -7682,11 +7682,6 @@ form .row:first-child .floating-label-form-group {
       width: 0px;
     }
 
-    .websiteImg3 {
-      height:0px;
-      width: 0px;
-    }
-
     
   }
 
@@ -7746,7 +7741,6 @@ form .row:first-child .floating-label-form-group {
 
     .websiteImg3 {
       height:215px;
-      width: 75px;
       border-radius: 5px;
     }
   }
