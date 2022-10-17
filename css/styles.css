@@ -7747,7 +7747,7 @@ form .row:first-child .floating-label-form-group {
     }
     .websiteImg {
       height:215px;
-      width: 75px;
+      width: 325px;
     }
 
     .websiteImg2 {
@@ -7767,10 +7767,17 @@ form .row:first-child .floating-label-form-group {
       border-radius: 5px;
     }
 
+
+
     
   }
 
   @media screen and (max-width: 400px){
+    .websiteImg {
+      height: 325px;
+      width: 325px;
+      border-radius: 5px;
+    }
     .websiteImg2 {
       height:0px;
       width: 0px;
