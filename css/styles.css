@@ -7681,6 +7681,13 @@ form .row:first-child .floating-label-form-group {
       height:0px;
       width: 0px;
     }
+
+    .websiteImg3 {
+      height:0px;
+      width: 0px;
+    }
+
+    
   }
 
   @media screen and (max-width: 467px){
@@ -7737,12 +7744,22 @@ form .row:first-child .floating-label-form-group {
       width: 0px;
     }
 
-    
+    .websiteImg3 {
+      height:215px;
+      width: 75px;
+      border-radius: 5px;
+    }
   }
 
   @media screen and (max-width: 400px){
     .websiteImg2 {
       height:0px;
       width: 0px;
+    }
+
+    .websiteImg3 {
+      height: 215px;
+      width: 200px;
+      border-radius: 5px;
     }
   }
