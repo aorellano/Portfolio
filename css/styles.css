@@ -7607,6 +7607,15 @@ form .row:first-child .floating-label-form-group {
     margin-left: 25px;
     width: 195px;
   }
+
+  .gif2 {
+    position: absolute;
+    /* top: 48%; */
+    top: 79px;
+    margin-left: 0px;
+    width: 159px;
+  }
+
   @media screen and (max-width: 1366px){
     .tasks-img {
       height:450px;
