@@ -7612,7 +7612,7 @@ form .row:first-child .floating-label-form-group {
     position: absolute;
     /* top: 48%; */
     top: 79px;
-    margin-left: 0px;
+    margin-left: -194px;
     width: 159px;
   }
 
