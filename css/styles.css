@@ -3105,8 +3105,7 @@ input[type="button"].btn-block {
     border: 0.125rem solid transparent;
     border-top-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem; }
-    .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-       }
+
     .nav-tabs .nav-link.disabled {
       color: #000;
       background-color: transparent;
