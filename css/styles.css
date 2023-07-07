@@ -103,6 +103,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
 
+  .icon {
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
   .details-title {
     color: white;
     font-size: 40px;
@@ -133,6 +140,20 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   .img-details3 {
     height: 300px;
     width: 150px;
+  }
+
+  .img-gif {
+    position: absolute;
+    /* top: 48%; */
+    top: 79px;
+    margin-left: -192px;
+    width: 159px;
+  }
+
+  .img-pic {
+    height:450px;
+    width: 225px;
+    margin-left: -500px;
   }
 
   .media {
@@ -167,13 +188,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   border-radius: 5px;
 }
 
-  .gif {
-    position: absolute;
-    /* top: 48%; */
-    top: 200px;
-    margin-left: 30px;
-    width: 210px;
-  }
 
 body {
   margin: 0;
@@ -7599,20 +7613,38 @@ form .row:first-child .floating-label-form-group {
     margin-bottom: 100px;
   }
 
-  .gif {
+
+  .gifPanda {
     position: absolute;
-    /* top: 48%; */
-    top: 250px;
-    margin-left: 25px;
-    width: 195px;
+    top: 175px;
+    margin-left: -178px;
+    height: 300px;
   }
 
   .gif2 {
     position: absolute;
     /* top: 48%; */
     top: 79px;
-    margin-left: -194px;
+    margin-left: -192px;
     width: 159px;
+  }
+
+  .gif3 {
+    position: absolute;
+    /* top: 48%; */
+    top: 75px;
+    margin-left: -192px;
+    width: 159px;
+    height: 310px;
+  }
+
+  .gif {
+    position: absolute;
+    /* top: 48%; */
+    top: 250px;
+    margin-left: 18px;
+    width: 210px;
+
   }
 
   @media screen and (max-width: 1366px){
@@ -7622,12 +7654,25 @@ form .row:first-child .floating-label-form-group {
     
     }
 
+    .hello {
+      position: absolute;
+      /* top: 48%; */
+      top: 100px;
+      margin-left: 30px;
+      width: 180px;
+      font-size: 40px;
+      font-weight: 650;
+      font-family: SF;
+
+    }
+
     .gif {
       position: absolute;
       /* top: 48%; */
       top: 250px;
-      margin-left: 14px;
-      width: 200px;
+      margin-left: 20px;
+      width: 210px;
+
     }
   }
 
@@ -7638,13 +7683,6 @@ form .row:first-child .floating-label-form-group {
 
     }
 
-    .gif {
-      position: absolute;
-      /* top: 48%; */
-      top: 250px;
-      margin-left: 16px;
-      width: 200px;
-    }
   }
 
   @media screen and (max-width: 667px){
@@ -7658,7 +7696,7 @@ form .row:first-child .floating-label-form-group {
       position: absolute;
       /* top: 48%; */
       top: 250px;
-      margin-left: 16px;
+      margin-left: 12px;
       width: 200px;
     }
   }
@@ -7706,6 +7744,14 @@ form .row:first-child .floating-label-form-group {
       width: 450px;
     }
 
+    .gif {
+      position: absolute;
+      /* top: 48%; */
+      top: 200px;
+      margin-left: 30px;
+      width: 210px;
+    }
+
     
   }
 
@@ -7741,13 +7787,6 @@ form .row:first-child .floating-label-form-group {
       color: gray;
     }
 
-    .gif {
-      position: absolute;
-      /* top: 48%; */
-      top: 250px;
-      margin-left: 16px;
-      width: 200px;
-    }
     .img {
       height:300px;
       width: 350px;
