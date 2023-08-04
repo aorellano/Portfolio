@@ -71,6 +71,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     color: white;
   }
 
+  .third-title {
+    word-spacing: 4px;
+    font-size: 18px;
+    font-weight: 100;
+    color: var(--purple);
+  }
+
   .description {
     font-size: 18px;
     padding-left: 0px;
