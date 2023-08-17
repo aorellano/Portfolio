@@ -84,28 +84,44 @@
         <Section class="page-section bg-primary" id="code">
             <div class="container">
                 <div class="text-center">
+                    <h2 class="page-section-heading text-secondary d-inline-block mb-0">Design Sketches</h2>
+                </div>
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                </div>
+                <div class="row justify-content-center">
+                    <img class="websiteImg" src="assets/img/BetAlarmDep.png">
+                </div>
+                <div class="row justify-content-center description">
+                    <br>Home Screen Dependency Graph<br>I like to draw out what objects depend on each other in order for each screen to make my code as decoupled, reusable, and scalable as possible.<br><br>
+                </div> 
+            </div>
+        </Section>
+        <Section class="page-section bg-primary" id="code">
+            <div class="container">
+                <div class="text-center">
                     <h2 class="page-section-heading text-secondary d-inline-block mb-0">CODE SNIPPETS</h2>
                 </div>
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                 </div>
                 <div class="row justify-content-center">
-                    <img class="websiteImg" src="assets/img/ServerBlock.png">
+                    <img class="websiteImg" src="assets/img/AppDependencyContainer.png">
                 </div>
                 <div class="row justify-content-center description">
-                    <br>Vapor Server<br>This is the vapor server that makes fetch requests to the soccer api continuously to get updates for the games.<br><br>
+                    <br>Dependency Injection Using Factories<br>Instead of having objects create their own dependencies, everything an object needs in order to do its work should be passed in from the outside. This both makes it easier to see what exact dependencies an object has, and it also makes testing a lot simpler.<br><br>
                 </div> 
                 <div class="row justify-content-center">
-                    <img class="websiteImg" src="assets/img/Routes2.png">
+                    <img class="websiteImg" src="assets/img/SerchView.png">
                 </div>
                 <div class="row justify-content-center description">
-                    <br>Vapor Routes<br>This is the routes for the server as of right now there is only one that starts monitoring the games.<br><br>
+                    <br>Search View<br>It is better to abstract and hide unnecessary details. Here all the view knows is that it needs a SearchViewModel. So the view only needs to focus on the view components the rest of the logic details are handeled by the SearchViewModel.<br><br>
                 </div>
                 <div class="row justify-content-center">
-                    <img class="websiteImg" src="assets/img/FrontEnd.png">
+                    <img class="websiteImg" src="assets/img/SearchViewModel.png">
                 </div>
                 <div class="row justify-content-center description">
-                    <br>Server Request<br> This is the code for a post request in the front end that sends the information to the server.
+                    <br>Search View Model<br>Here because other ViewModels will need to depend on the alerts manager and game service these classes will be created outside of the searchViewModel scope. This allows those classes to be injected and reused in other viewmodels!
                 </div>
             </div>
         </Section>
